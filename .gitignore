@@ -4,4 +4,7 @@
 *.tmp
 # Abaikan folder atau file lain yang tidak relevan
 /vendor/  # Jika menggunakan Composer
-/.idea/   # Jika menggunakan IDE seperti PhpStorm
+/.idea/   # Jika menggunakan IDE seperti PhpStorm".env" 
+"*.log" 
+"node_modules/" 
+"__pycache__/" 
